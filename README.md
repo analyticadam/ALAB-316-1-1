@@ -1,4 +1,4 @@
-# ALAB-316-1-1
+# ALAB-316-1-1 (DOM Manipulation-Part One) / ALAB-316-3-1 (DOM Manipulation-Part Two)
 # Dynamic Navigation Menu Project
 
 This project creates a dynamic, interactive navigation menu using JavaScript and DOM manipulation, designed to manage active states and display sub-menus for various top-level navigation options.
